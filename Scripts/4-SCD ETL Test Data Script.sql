@@ -9,7 +9,7 @@ Instructions:
 Change Log: (When,Who,What)
 2022-12-29,RRoot,Created File
 ****************** Instructors Version ***************************/
-
+--********************************************************************--
 USE [AdventureWorks_Basics]
 GO
 
