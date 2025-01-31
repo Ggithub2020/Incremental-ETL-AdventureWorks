@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{6FAAF737-020B-48F6-851E-582F6D1D265F}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\A02_Manual_GObse.pdf = Documents\A02_Manual_GObse.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{2464BDC0-4B2A-4576-AC8F-A23C86C1BE4C}"
+	ProjectSection(SolutionItems) = preProject
+		Scripts\1-Restore AdventureWorks_Basics Script-AsNeeded.sql = Scripts\1-Restore AdventureWorks_Basics Script-AsNeeded.sql
+		Scripts\2-Create DWAdventureWorks_Basics with SCD Script.sql = Scripts\2-Create DWAdventureWorks_Basics with SCD Script.sql
+		Scripts\4-SCD ETL Test Data Script.sql = Scripts\4-SCD ETL Test Data Script.sql
+		Scripts\A02-Starter ETL Script_GObse.sql = Scripts\A02-Starter ETL Script_GObse.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029841D6-FB04-4B8E-8FB2-F2398BC9C8FE}
+	EndGlobalSection
+EndGlobal
