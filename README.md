@@ -42,9 +42,5 @@ This repository contains an Incremental ETL process using SQL scripts for a Data
 - Automate scheduling via SQL Agent.
 - Optimize performance with indexing strategies.
 
-## License
-This project is open-source. Feel free to contribute or modify as needed.
-
----
 
 Happy Coding! 🚀
